@@ -75,27 +75,6 @@ session_start();
                 </table>
             </div>
 
-<!--
-         <div class="card mb-3">
-  <h3 class="card-header">Book Store</h3>
-  <div class="card-body">
-    <h5 class="card-title">My Special Library</h5>
-  </div>
-  <img class="card-book" src="./images/bookstore.jpg"/>
-  <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">Cras justo odio</li>
-    <li class="list-group-item">Dapibus ac facilisis in</li>
-    <li class="list-group-item">Vestibulum at eros</li>
-  </ul>
-  
-  <div class="card-footer text-muted">
-    2 days ago
-  </div>
-</div>
--->
         </div>
     </div>
 </body>
